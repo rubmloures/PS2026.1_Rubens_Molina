@@ -16,10 +16,10 @@ A pipeline construída engloba a ingestão e conversão de dados brutos para o f
 
 **Nome:** Rubens Molina  
 **Contato:** 
-            E-mail: rubensloures43@gmail.com
-            Linkedin: https://www.linkedin.com/in/rubens-molina/  
-            GitHub: https://github.com/rubensloures
-            Drive: https://drive.google.com/drive/folders/11Kdrt3Z6V5Ow7WuiS01vyo8VqUtNOU1v?usp=sharing - > Salvar os arquivos .csv na pasta data/01_raw/
+- E-mail: rubensloures43@gmail.com
+- Linkedin: https://www.linkedin.com/in/rubens-molina/  
+- GitHub: https://github.com/rubensloures
+- Drive: https://drive.google.com/drive/folders/11Kdrt3Z6V5Ow7WuiS01vyo8VqUtNOU1v?usp=sharing - > Salvar os arquivos .csv na pasta data/01_raw/
 
 ---
 
