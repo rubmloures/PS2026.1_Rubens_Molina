@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python)",
+      "Bash(python scripts/teste_bloco_5_3.py)"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+empresa,uf,tipo_veiculo,qtd_ocorrências
+LogiPrime,SP,VUC,6769
+LogiPrime,SP,TOCO,4507
+LogiPrime,RJ,VUC,2917
+LogiPrime,RJ,TOCO,1941
+RotaSul,PR,TRUCK,1327
+RotaSul,SC,TRUCK,1006
+RotaSul,RS,TRUCK,958
+RotaSul,PR,CARRETA,484
+RotaSul,SC,CARRETA,400
+RotaSul,RS,CARRETA,396

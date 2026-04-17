@@ -1,0 +1,104 @@
+{
+  "notebook": "04_Oportunidade_Entrega",
+  "data_execucao": "2026-04-17",
+  "premissas": {
+    "REDUCAO_TEMPO_TRECHO": 0.23,
+    "REDUCAO_TEMPO_ESPERA": 0.35,
+    "JORNADA_PADRAO_MIN": 440
+  },
+  "metricas_principais": {
+    "rotas_analisadas": 62800,
+    "rotas_com_expansao_possivel": 20035,
+    "pct_rotas_com_expansao": 0.319,
+    "entregas_atuais_total": 438788,
+    "entregas_adicionais_efetivas_total": 20136,
+    "pct_crescimento_capacidade": 0.0459
+  },
+  "restricao_dominante": {
+    "Tempo": 51338,
+    "Volume": 5685,
+    "Peso": 3036,
+    "Nenhuma expansão possível": 2741
+  },
+  "por_uf": {
+    "PR": 8067,
+    "RS": 6019,
+    "SC": 6050
+  },
+  "por_veiculo": {
+    "CARRETA": 6051,
+    "TRUCK": 14085
+  },
+  "top10_rotas": [
+    {
+      "codigo_rota": "B_PR_20240119_B-CAR-00028",
+      "uf": "PR",
+      "tipo_veiculo": "CARRETA",
+      "entregas_adicionais_efetivas": 2,
+      "restricao_dominante": "Tempo"
+    },
+    {
+      "codigo_rota": "B_PR_20240124_B-TRK-00041",
+      "uf": "PR",
+      "tipo_veiculo": "TRUCK",
+      "entregas_adicionais_efetivas": 2,
+      "restricao_dominante": "Volume"
+    },
+    {
+      "codigo_rota": "B_PR_20240203_B-CAR-00002",
+      "uf": "PR",
+      "tipo_veiculo": "CARRETA",
+      "entregas_adicionais_efetivas": 2,
+      "restricao_dominante": "Tempo"
+    },
+    {
+      "codigo_rota": "B_PR_20240227_B-CAR-00017",
+      "uf": "PR",
+      "tipo_veiculo": "CARRETA",
+      "entregas_adicionais_efetivas": 2,
+      "restricao_dominante": "Tempo"
+    },
+    {
+      "codigo_rota": "B_PR_20240301_B-TRK-00094",
+      "uf": "PR",
+      "tipo_veiculo": "TRUCK",
+      "entregas_adicionais_efetivas": 2,
+      "restricao_dominante": "Tempo"
+    },
+    {
+      "codigo_rota": "B_PR_20240304_B-CAR-00047",
+      "uf": "PR",
+      "tipo_veiculo": "CARRETA",
+      "entregas_adicionais_efetivas": 2,
+      "restricao_dominante": "Tempo"
+    },
+    {
+      "codigo_rota": "B_PR_20240315_B-TRK-00072",
+      "uf": "PR",
+      "tipo_veiculo": "TRUCK",
+      "entregas_adicionais_efetivas": 2,
+      "restricao_dominante": "Tempo"
+    },
+    {
+      "codigo_rota": "B_PR_20240316_B-CAR-00045",
+      "uf": "PR",
+      "tipo_veiculo": "CARRETA",
+      "entregas_adicionais_efetivas": 2,
+      "restricao_dominante": "Tempo"
+    },
+    {
+      "codigo_rota": "B_PR_20240320_B-CAR-00036",
+      "uf": "PR",
+      "tipo_veiculo": "CARRETA",
+      "entregas_adicionais_efetivas": 2,
+      "restricao_dominante": "Tempo"
+    },
+    {
+      "codigo_rota": "B_PR_20240326_B-TRK-00098",
+      "uf": "PR",
+      "tipo_veiculo": "TRUCK",
+      "entregas_adicionais_efetivas": 2,
+      "restricao_dominante": "Tempo"
+    }
+  ]
+}
